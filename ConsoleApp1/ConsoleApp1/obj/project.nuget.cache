@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/bikABSlj9rooetw6WHqYvu7ba2sx6yajmwNnmtjcpi7QhaCCwqlNoilVBuqAYE6eqLhIqGZ9XSqW/AL2yy5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danny\\GitHub\\VirtualDesktop\\ConsoleApp1\\ConsoleApp1\\VirtualDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danny\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\danny\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\danny\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\danny\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

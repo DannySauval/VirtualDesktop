@@ -1,0 +1,15 @@
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.AssemblyInfoInputs.cache
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.AssemblyInfo.cs
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.csproj.CoreCompileInputs.cache
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\VirtualDesktop.exe
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\VirtualDesktop.deps.json
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\VirtualDesktop.runtimeconfig.json
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\VirtualDesktop.runtimeconfig.dev.json
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\VirtualDesktop.dll
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\VirtualDesktop.dll
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\VirtualDesktop.pdb
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.dll
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\VirtualDesktop.dll
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.pdb
+C:\Users\danny\GitHub\VirtualDesktop\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\VirtualDesktop.genruntimeconfig.cache
